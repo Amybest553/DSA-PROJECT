@@ -4,7 +4,7 @@ This is where i started my portfolio building while taking my data analysis proj
 ## AMAZON PRODUCT REVIEW ANALAYSIS
 
 ### PROJECT OVERVIEW
-The data, created helper columns, and used pivot tables to answer key business questions. This project explores an amazon product dataset to customer insights about discounts, customer reviews, pricing and product categories. Using Excel, i cleaned the data, created helper columns, and used pivot tables to answer key business questions.
+This project explores an amazon product dataset to customer insights about discounts, customer reviews, pricing and product categories. Using Excel, i cleaned the data, created helper columns, and used pivot tables to answer key business questions.
 
 ### Key Highlights
 - Analysed discount patterns by category
@@ -21,10 +21,10 @@ The data, created helper columns, and used pivot tables to answer key business q
 
 ### Status
   1. Data cleaned
-  2.Insights generated
+  2. Insights generated
   3. Dashboard created
 
-## File Included
+### File Included
 -‘Reviews & dashboards.xlsx’-contains cleaned data, dashboard sheets, and analysis outputs.
 
 
