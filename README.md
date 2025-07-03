@@ -6,12 +6,12 @@ This is where i started my portfolio building while taking my data analysis proj
 ### PROJECT OVERVIEW
 This project explores an amazon product dataset to customer insights about discounts, customer reviews, pricing and product categories. Using Excel, i cleaned the data, created helper columns, and used pivot tables to answer key business questions.
 
-### Key Highlights
-- Analysed discount patterns by category
+### Objectives
+- Analysed discount strategies across product categories 
 - Identified top-rated and most-reviewed product
 - Calculated potential revenue per product
 - Grouped products by price range and discount status
-- built a dashboard to visualize key insights
+- built a simple dashboard to visualize key insights
 
 ### Tools used
 - Microsoft Excel 
