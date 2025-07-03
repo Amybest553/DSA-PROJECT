@@ -13,3 +13,20 @@ The data, created helper columns, and used pivot tables to answer key business q
 - Grouped products by price range and discount status
 - built a dashboard to visualize key insights
 
+### Tools used
+- Microsoft Excel 
+  - Pivot Tables
+  - IF, VLOOKUP and calculated fields
+  - custom columns (‘score’, ‘revenue’,’price_bucket’)
+
+### Status
+  1. Data cleaned
+  2.Insights generated
+  3. Dashboard created
+
+## File Included
+-‘Reviews & dashboards.xlsx’-contains cleaned data, dashboard sheets, and analysis outputs.
+
+
+
+
