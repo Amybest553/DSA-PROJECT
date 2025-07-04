@@ -14,7 +14,8 @@ This project explores an amazon product dataset to customer insights about disco
 - built a simple dashboard to visualize key insights
 
 ### Tools used
-- Microsoft Excel  Download Here
+- Microsoft Excel  [Download Here](https://docs.google.com/spreadsheets/d/1bqTm_0jlABTKHhsedxahSC-AQ5dsKQKj9QDQhFXkiYs/edit?usp=sharing
+)
   - Pivot Tables
   - IF, VLOOKUP and calculated fields
   - custom columns (‘score’, ‘revenue’,’price_bucket’)
